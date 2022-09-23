@@ -7,9 +7,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "login": {
-    "success": true,
-    "message": "Login Success"
   }
 }
